@@ -42,5 +42,8 @@ _A URL reference to the project._
 * GPU DWT implementation details: https://www.sitola.cz/papers/858064.pdf
 
 ## Required Resources
-- Group members
-- Hardware and software resource required
+- Group members should be comfortable with C and C++, the use of external libraries. Some CUDA and parallel computing background would be helpful. Expericence with matrix mathmatics and signal processing is also a plus.
+While the complex portions of the project are part of existing libraries, the more knowlesdgable the team is the more oppertunity for optimization. 
+
+
+- Team members should have access to a Linux system with working tool chain. They will need to setup for cross platform development using NVIDIA's free SDK. Will require an NVIDIA Jetson system. Team has once available, if there are other unused modules around, remote access would be fantasitic. 
