@@ -34,6 +34,12 @@ The core goal of this project will be to produce a module that can compress a 4K
 
 ## Background
 _A URL reference to the project._
+* APERTUS Project: https://apertus.org/
+* CINEFORM SDK: https://github.com/gopro/cineform-sdk
+* Open JPEG: http://www.openjpeg.org/
+* gpu-JPEG: https://github.com/etalab/gpu-jpeg2k
+* CUDA accelerated DWT: https://code.google.com/archive/p/gpudwt/
+* GPU DWT implementation details: https://www.sitola.cz/papers/858064.pdf
 
 ## Required Resources
 - Group members
