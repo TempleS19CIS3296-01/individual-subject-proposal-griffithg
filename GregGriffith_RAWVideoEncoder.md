@@ -24,7 +24,9 @@ In recent years there has been a push by the open source community to "hack" off
 ![Use Case Image](StellaOwl_PayStation.png)
 
 ## Project Relevance
-_A one paragraph explanation of how the proposal is linked to the educational goals of this class and why this goal is important goal (see list of subject in Initial Survey or slide 7 and 8 in CIS3296Introduction.pptx)_
+_A one paragraph explanation of how the proposal is linked to the educational goals of this class and why this goal is important goal 
+
+This project relates to several of the educational objectives of this course. It requires the cordination of team members to work on several diferent parts of the project. Issues will need to be reported, and tracked to a fix. It will require a solid overall object oriented design, with a well thought test plan. It requires the use of external libraries, and APIs. The use of multi-threading and potentially parallel computing to provide desired performance. In addition there will be a need for significant optimization and code profiling to identify and correct bottlenecks in the system. In the end if this is to be useful it will also need usable documentation. 
 
 ## Conceptual Design
 _A one-paragraph description of your proposed contribution._
