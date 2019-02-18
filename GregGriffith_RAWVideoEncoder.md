@@ -24,12 +24,10 @@ In recent years there has been a push by the open source community to "hack" off
 ![Use Case Image](GregGriffith_RAWVideoEncoder.png)
 
 ## Project Relevance
-_A one paragraph explanation of how the proposal is linked to the educational goals of this class and why this goal is important goal 
-
-This project relates to several of the educational objectives of this course. It requires the cordination of team members to work on several diferent parts of the project. Issues will need to be reported, and tracked to a fix. It will require a solid overall object oriented design, with a well thought test plan. It requires the use of external libraries, and APIs. The use of multi-threading and potentially parallel computing to provide desired performance. In addition there will be a need for significant optimization and code profiling to identify and correct bottlenecks in the system. In the end if this is to be useful it will also need usable documentation. 
+This project relates to several of the educational objectives of this course. It requires the coordination of team members to work on several different parts of the project. Issues will need to be reported, and tracked to a fix. It will require a solid overall object oriented design, with a well thought test plan. It requires the use of external libraries, and APIs. The use of multi-threading and potentially parallel computing to provide desired performance. In addition there will be a need for significant optimization and code profiling to identify and correct bottlenecks in the system. In the end if this is to be useful it will also need usable documentation.
+ 
 
 ## Conceptual Design
-_A one-paragraph description of your proposed contribution._
 The core goal of this project will be to produce a module that can compress a 4K RAW video stream. This module would be targeted to perform realtime encoding using the NVIDIA Jetson platform. This is an embedded module providing a high performance ARM processor and NVIDIA GPU in a mobile platform.The project would read frames from the Jetsons camera, and use the OpenJPEG and gpu-jpeg2k libraries to process and compress the images before storing them to disk. There are several methods of preparing the RAW data for encoding proposed, in this case the simplest of the methods would be implemented. The code would designed to be modular and allow for change of the preprocessor.
 
 ## Background
