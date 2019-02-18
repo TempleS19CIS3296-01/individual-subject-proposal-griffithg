@@ -37,7 +37,7 @@ The core goal of this project will be to produce a module that can compress a 4K
 * gpu-JPEG: https://github.com/etalab/gpu-jpeg2k
 * CUDA accelerated DWT: https://code.google.com/archive/p/gpudwt/
 * GPU DWT implementation details: https://www.sitola.cz/papers/858064.pdf
-* Bayer Pattern PreProcessing: http://www.ece.ubc.ca/~colind/papers/doutre_TCSVT2008.pdf
+* Bayer Pattern pre-processing: http://www.ece.ubc.ca/~colind/papers/doutre_TCSVT2008.pdf
 
 ## Required Resources
 - Team members should be comfortable with C and C++, and the use of external libraries. Some CUDA and parallel computing background would be helpful. Experience with matrix mathematics and signal processing is also a plus.
