@@ -38,6 +38,7 @@ _A URL reference to the project._
 * gpu-JPEG: https://github.com/etalab/gpu-jpeg2k
 * CUDA accelerated DWT: https://code.google.com/archive/p/gpudwt/
 * GPU DWT implementation details: https://www.sitola.cz/papers/858064.pdf
+* Bayer Pattern PreProcessing: http://www.ece.ubc.ca/~colind/papers/doutre_TCSVT2008.pdf
 
 ## Required Resources
 - Group members should be comfortable with C and C++, the use of external libraries. Some CUDA and parallel computing background would be helpful. Expericence with matrix mathmatics and signal processing is also a plus.
