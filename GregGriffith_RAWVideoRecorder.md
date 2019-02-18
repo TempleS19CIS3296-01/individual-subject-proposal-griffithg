@@ -40,8 +40,8 @@ The core goal of this project will be to produce a module that can compress a 4K
 * Bayer Pattern PreProcessing: http://www.ece.ubc.ca/~colind/papers/doutre_TCSVT2008.pdf
 
 ## Required Resources
-- Team members should be comfortable with C and C++, and the use of external libraries. Some CUDA and parallel computing background would be helpful. Expericence with matrix mathmatics and signal processing is also a plus.
-While the complex portions of the project are part of existing libraries, the more knowlesdgable the team is the more oppertunity for optimization. 
+- Team members should be comfortable with C and C++, and the use of external libraries. Some CUDA and parallel computing background would be helpful. Experience with matrix mathematics and signal processing is also a plus.
+While the complex portions of the project are part of existing libraries, the more knowledgeable the team is the more opportunity for optimization. 
 
 
-- Team members should have access to a Linux system with working tool chain. They will need to setup for cross platform development using NVIDIA's free SDK. Will require an NVIDIA Jetson system. Team has once available, if there are other unused modules around, remote access would be fantasitic. 
+- Team members should have access to a Linux system with working tool chain. They will need to setup for cross platform development using NVIDIA's free SDK. Will require an NVIDIA Jetson system. Team has once available, if there are other unused modules around, remote access would be fantastic.
