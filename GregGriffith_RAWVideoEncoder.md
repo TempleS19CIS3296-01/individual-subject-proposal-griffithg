@@ -21,7 +21,7 @@ In recent years there has been a push by the open source community to "hack" off
 
 
 
-![Use Case Image](StellaOwl_PayStation.png)
+![Use Case Image](GregGriffith_RAWVideoEncoder.png)
 
 ## Project Relevance
 _A one paragraph explanation of how the proposal is linked to the educational goals of this class and why this goal is important goal 
