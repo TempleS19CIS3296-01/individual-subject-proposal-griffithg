@@ -30,6 +30,7 @@ This project relates to several of the educational objectives of this course. It
 
 ## Conceptual Design
 _A one-paragraph description of your proposed contribution._
+The core goal of this project will be to produce a module that can compress a 4K RAW video stream. This module would be targeted to perform realtime encoding using the NVIDIA Jetson platform. This is an embedded module providing a high performance ARM processor and NVIDIA GPU in a mobile platform.The project would read frames from the Jetsons camera, and use the OpenJPEG and gpu-jpeg2k libraries to process and compress the images before storing them to disk. There are several methods of preparing the RAW data for encoding proposed, in this case the simplest of the methods would be implemented. The code would designed to be modular and allow for change of the preprocessor.
 
 ## Background
 _A URL reference to the project._
